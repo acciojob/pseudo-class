@@ -1,3 +1,3 @@
-# Acciojob Assignment Solution Template Repo
+# Use pseudo classes in CSS to achieve the sentence shown in image below:
 
-# Instructions 
+![ouput](https://storage.googleapis.com/acciojob-open-file-collections/pseudo-class.png)
